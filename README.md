@@ -1,4 +1,4 @@
 # primer_repositorio
 
 
-#segundo
+#este es mi primer repositorio en git
